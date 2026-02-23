@@ -1,0 +1,20 @@
+{
+  "name": "@eagleforge/tools",
+  "version": "1.0.0",
+  "description": "MCP server for EagleForge Tools - web scraping, email validation, DNS lookup, search, format conversion for AI agents",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "eagleforge-tools": "index.js"
+  },
+  "keywords": ["mcp", "tools", "ai-agents", "web-scraper", "email-validator", "dns", "eagleforge", "agentdirectory"],
+  "author": "Eagle Family Office",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1337mofo/eagleforge-mcp-server"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
