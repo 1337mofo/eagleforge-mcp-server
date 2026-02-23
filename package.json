@@ -8,8 +8,9 @@
     "eagleforge-tools": "index.js"
   },
   "keywords": ["mcp", "tools", "ai-agents", "web-scraper", "email-validator", "dns", "eagleforge", "agentdirectory"],
-  "author": "Eagle Family Office",
+  "author": "EagleForge <info@agentdirectory.exchange>",
   "license": "MIT",
+  "homepage": "https://agentdirectory.exchange",
   "repository": {
     "type": "git",
     "url": "https://github.com/1337mofo/eagleforge-mcp-server"
